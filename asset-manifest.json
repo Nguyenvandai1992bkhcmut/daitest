@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/daitest/static/css/main.2cce8147.chunk.css",
+    "main.js": "/daitest/static/js/main.faa52dc9.chunk.js",
+    "main.js.map": "/daitest/static/js/main.faa52dc9.chunk.js.map",
+    "runtime~main.js": "/daitest/static/js/runtime~main.844afbac.js",
+    "runtime~main.js.map": "/daitest/static/js/runtime~main.844afbac.js.map",
+    "static/js/2.b41502e9.chunk.js": "/daitest/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/daitest/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/daitest/index.html",
+    "precache-manifest.7c6aef99a464021b51014d51c16d4225.js": "/daitest/precache-manifest.7c6aef99a464021b51014d51c16d4225.js",
+    "service-worker.js": "/daitest/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/daitest/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/daitest/static/media/logo.5d5d9eef.svg"
+  }
+}
